@@ -1,0 +1,30 @@
+//Output for MeharinForKids.java
+Welcome to the Quiz!
+Enter your name: Meharin
+Do you want to play?(yes/no): yes
+Select a difficulty level:
+1.Beginner (5 questions)
+2.Intermediate (10 questions)
+3.Hard (20 questions)
+Enter your choice (1/2/3): 1
+You chose Beginner.
+What is the result of: 1 + 4?
+5
+Correct!
+What is the result of: 2 - 1?
+1
+Correct!
+What is the result of: 1 * 4?
+4
+Correct!
+What is the result of: 2 / 1?
+2
+Correct!
+What is the result of: 10 / 4?
+2
+Correct!
+
+Quiz Over!
+Your final score is: 5/5
+Correct answers: 5
+Wrong answers: 0
